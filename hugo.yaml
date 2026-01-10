@@ -5,7 +5,8 @@
 
 baseURL: "https://KuanL1u.github.io/"
 title: ExampleSite
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
