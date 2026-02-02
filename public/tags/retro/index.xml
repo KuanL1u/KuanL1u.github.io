@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
-    <link>https://KuanL1u.github.io/posts/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <title>Retro on ExampleSite</title>
+    <link>https://KuanL1u.github.io/tags/retro/</link>
+    <description>Recent content in Retro on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
       <url>https://KuanL1u.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 -0800</lastBuildDate>
-    <atom:link href="https://KuanL1u.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://KuanL1u.github.io/tags/retro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monthly Retro 2026 Jan</title>
       <link>https://KuanL1u.github.io/posts/monthly-retro-2026-jan/</link>
@@ -48,13 +48,6 @@ $$
 &lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
 &lt;p&gt;身边天龙人太多，导致现在人已经麻了。有背景华丽的天龙人，也有连大学都没上过的天龙人。英雄不问出处。&lt;/p&gt;
 &lt;p&gt;LLM 的出现，让传统大学教育暗淡了。亚麻的 director 跟我说，有个学长和张一鸣一起创办了新的教育形式，不再走传统大学路线，直接从高中选拔有天赋的人进行专业化培养。这又让我想到了 kesku，以及他在 Sora 的小伙伴们——很多人没上大学，但已经在世界最顶尖的 AI frontier lab 工作。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Build nano LLM API</title>
-      <link>https://KuanL1u.github.io/posts/build-nano-llm-api/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://KuanL1u.github.io/posts/build-nano-llm-api/</guid>
-      <description>A guide to building a lightweight LLM API from scratch</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reflection on ExampleSite</title>
+    <link>http://localhost:1313/tags/reflection/</link>
+    <description>Recent content in Reflection on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monthly Retro 2026 Jan</title>
+      <link>http://localhost:1313/posts/monthly-retro-2026-jan/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/monthly-retro-2026-jan/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;2026年1月结束了。简单记录一下，想到什么写什么。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;改变&#34;&gt;改变&lt;/h2&gt;
+&lt;p&gt;很有幸参加了Accel联合pplx以及claude code举办的hackathon。这是我第一次参加这样的活动，而且是以主办方/合作方的身份参加，很有收获。不仅和kesku有了更深的相互了解，还结识了新的朋友，包括投资人和claude code的同行。
+如果之后还有机会的话，我应该多多参与这样的活动，交流经验，展现自己。&lt;/p&gt;
+&lt;p&gt;空闲时间还和ucla的经管学院教授，以及亚麻广告业务的director，进行了一些私下交流，也是非常开心。&lt;/p&gt;
+&lt;p&gt;我想这就是我想要的改变之一吧 - 把自己当成一个公司/产品，多进行marketing和connecting。&lt;/p&gt;
+&lt;p&gt;但是有一点需要时常提醒自己，这也是我之前犯过的错误 - 需要警惕宏大叙事导致的傲慢（眼高手低）。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;尝试&#34;&gt;尝试&lt;/h2&gt;
+&lt;p&gt;一直想要写的技术博客，由于各种原因，还没有下笔。可能又犯了优绩主义或者完美主义的毛病。但是也很难说。这是一个很大的课题，我目前还没有很多的观察和思考。
+展开说说就是，我不应该因为不完美/没准备好，就迟迟不开始。但是，我同时认为，自己的产出/作品需要达到一定的水准。如何衡量这中间的trade off，可能需要更多的实践。
+但是的但是，迟迟不开始，应该是不对的。需要行动起来。&lt;/p&gt;
+&lt;p&gt;“开始”本身是一件很微妙的事情。它意味着你可能会失败。很多时候，人会因为恐惧失败，而不开始。承认自己的失败，其实是已经很痛苦的事情。如果不开始的话，就不会失败，可能会活得更加心安理得吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;思考&#34;&gt;思考&lt;/h2&gt;
+&lt;p&gt;今天和 Di 打电话的时候，还在讨论到了“尝试”的重要性，以及“配得感”。&lt;/p&gt;
+&lt;p&gt;我们一直的一个观察就是，对于大部分人来说，梦想（或者说目标）的达成，都是概率事件。“配得感”会让你敢于开始“尝试”。而多次的“尝试”，会大大增加你达到目标的概率。&lt;/p&gt;
+&lt;p&gt;你可以失败很多次，但是只要成功一次就行了。&lt;/p&gt;
+&lt;p&gt;用一个过分简单的概率模型 - 假设成功的概率是 r (where r &amp;lt; 1%)。那么单次的尝试就很难成功。但是如果你尝试n次，那么，至少成功一次的概率就是 1 - (1 - r)^n. 尝试越多（n越大），成功的概率就越高。&lt;/p&gt;
+&lt;p&gt;结论就是，请多多尝试。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
+&lt;p&gt;身边天龙人太多，导致现在人已经麻了。有背景华丽的天龙人，也有连大学都没上过的天龙人。英雄不问出处。&lt;/p&gt;
+&lt;p&gt;llm的出现，让大学教育暗淡了。亚麻的director跟我说，有个学长和张一鸣一起创办了新的教育形式，不再走之前的大学教育方向，直接从高中选拔有天赋的人进行专业化培养。这又让我想到了kesku，已经他在sora的小伙伴。都是公众毕业没上大学，但是却已经在世界最顶尖的 ai frontier lab 工作了。&lt;/p&gt;
+&lt;p&gt;但是转念一想，如果剑桥大学录取，还是应该去（director 说到有个case，放弃了剑桥大学而选择了新的教育形式），因为剑桥大学的同学会是你一辈子的资源。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;工作&#34;&gt;工作&lt;/h2&gt;
+&lt;p&gt;可以学的东西，以及可以接触到的东西都太多了，这是我很喜欢的一点。
+但是我也想说，自己是真的很有可能被开除的。小公司开人很猛，真的不开玩笑。还是需要低调一些。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

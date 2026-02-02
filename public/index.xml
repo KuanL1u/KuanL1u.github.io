@@ -2,22 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ExampleSite</title>
-    <link>http://localhost:1313/</link>
+    <link>https://KuanL1u.github.io/</link>
     <description>Recent content on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://KuanL1u.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://KuanL1u.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 -0800</lastBuildDate>
+    <atom:link href="https://KuanL1u.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monthly Retro 2026 Jan</title>
+      <link>https://KuanL1u.github.io/posts/monthly-retro-2026-jan/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 -0800</pubDate>
+      <guid>https://KuanL1u.github.io/posts/monthly-retro-2026-jan/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;2026 年 1 月结束了，简单记录一下，想到什么写什么。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;改变&#34;&gt;改变&lt;/h2&gt;
+&lt;p&gt;很有幸参加了 Accel 联合 pplx 以及 Claude Code 举办的 hackathon。这是我第一次参加这样的活动，而且是以主办方/合作方的身份参与，收获很大。不仅和 kesku 有了更深的相互了解，还结识了新朋友，包括投资人和 Claude Code 的同行。
+如果之后还有机会，我应该多多参与这样的活动，交流经验、展示自己。&lt;/p&gt;
+&lt;p&gt;空闲时间还和 UCLA 的经管学院教授、以及亚麻广告业务的 director 做了一些私下交流，也很开心。&lt;/p&gt;
+&lt;p&gt;我想这就是我想要的改变之一：把自己当成一个公司/产品，多做 marketing 和 connecting。&lt;/p&gt;
+&lt;p&gt;但有一点需要时常提醒自己，这也是我之前犯过的错误：要警惕宏大叙事导致的傲慢（要有自己的产品）。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;尝试&#34;&gt;尝试&lt;/h2&gt;
+&lt;p&gt;一直想写的技术博客，由于各种原因还没下笔。可能又犯了优绩主义或完美主义的毛病，但也很难说。这是个很大的课题，我目前还没有太多观察和思考。
+展开来说，我不应该因为不完美/没准备好，就迟迟不开始。但我同时也认为，自己的产出/作品需要达到一定水准。如何衡量这中间的 trade-off，可能需要更多实践。
+但是再怎么说，迟迟不开始是不对的，需要行动起来。&lt;/p&gt;
+&lt;p&gt;“开始”本身是一件很微妙的事，它意味着你可能会失败。很多时候，人会因为恐惧失败而不开始。承认自己的失败，本身就很痛苦。如果不开始，就不会失败，可能会活得更心安理得吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;思考&#34;&gt;思考&lt;/h2&gt;
+&lt;p&gt;今天和 Di 打电话时，还讨论到了“尝试”的重要性，以及“配得感”。&lt;/p&gt;
+&lt;p&gt;我们一直的一个观察是：对于大部分人来说，梦想（或目标）的达成是概率事件。“配得感”会让你敢于开始“尝试”，而多次“尝试”会大大增加你达到目标的概率。&lt;/p&gt;
+&lt;p&gt;你可以失败很多次，但是只要成功一次就行了。&lt;/p&gt;
+&lt;p&gt;用一个过分简单的概率模型：假设成功概率为 $r$（$0 &amp;lt; r &amp;lt; 1%$）。单次尝试很难成功，但若尝试 $n$ 次，则至少成功一次的概率为：
+$$
+1 - (1 - r)^n
+$$
+尝试越多（$n$ 越大），成功概率越高。&lt;/p&gt;
+&lt;p&gt;结论就是，请多多尝试。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
+&lt;p&gt;身边天龙人太多，导致现在人已经麻了。有背景华丽的天龙人，也有连大学都没上过的天龙人。英雄不问出处。&lt;/p&gt;
+&lt;p&gt;LLM 的出现，让传统大学教育暗淡了。亚麻的 director 跟我说，有个学长和张一鸣一起创办了新的教育形式，不再走传统大学路线，直接从高中选拔有天赋的人进行专业化培养。这又让我想到了 kesku，以及他在 Sora 的小伙伴们——很多人没上大学，但已经在世界最顶尖的 AI frontier lab 工作。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Build nano LLM API</title>
-      <link>http://localhost:1313/posts/build-nano-llm-api/</link>
+      <link>https://KuanL1u.github.io/posts/build-nano-llm-api/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/build-nano-llm-api/</guid>
+      <guid>https://KuanL1u.github.io/posts/build-nano-llm-api/</guid>
       <description>A guide to building a lightweight LLM API from scratch</description>
     </item>
   </channel>

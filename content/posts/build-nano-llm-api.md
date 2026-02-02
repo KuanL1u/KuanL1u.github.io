@@ -1,7 +1,7 @@
 ---
 title: "Build nano LLM API"
 date: 2026-01-10
-draft: true
+draft: false
 tags: ["LLM", "API", "Machine Learning"]
 categories: ["Tutorial"]
 summary: "A guide to building a lightweight LLM API from scratch"
