@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Retro on ExampleSite</title>
-    <link>https://KuanL1u.github.io/tags/retro/</link>
-    <description>Recent content in Retro on ExampleSite</description>
+    <title>Retro on Kuan&#39;Log</title>
+    <link>http://localhost:1313/tags/retro/</link>
+    <description>Recent content in Retro on Kuan&#39;Log</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://KuanL1u.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://KuanL1u.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Kuan&#39;Log</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 -0800</lastBuildDate>
-    <atom:link href="https://KuanL1u.github.io/tags/retro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/retro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monthly Retro 2026 Jan</title>
-      <link>https://KuanL1u.github.io/posts/monthly-retro-2026-jan/</link>
+      <link>http://localhost:1313/posts/monthly-retro-2026-jan/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 -0800</pubDate>
-      <guid>https://KuanL1u.github.io/posts/monthly-retro-2026-jan/</guid>
+      <guid>http://localhost:1313/posts/monthly-retro-2026-jan/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;2026 年 1 月结束了，简单记录一下，想到什么写什么。&lt;/p&gt;
 &lt;hr&gt;
