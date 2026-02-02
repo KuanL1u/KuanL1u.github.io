@@ -86,6 +86,8 @@ params:
       url: "mailto:liukuan@umich.edu"
     - name: linkedin
       url: "https://www.linkedin.com/in/kuan-liu-689928137/"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=a1JSgpYAAAAJ&hl=en"
 
   analytics:
     google:
