@@ -11,8 +11,32 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monthly Retro 2026 Feb</title>
+      <link>http://localhost:1313/posts/monthly-retro-2026-feb/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/monthly-retro-2026-feb/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;AI一天，人间一年。虽然很夸张，但是真的有这种感觉。&lt;/p&gt;
+&lt;h2 id=&#34;改变&#34;&gt;改变&lt;/h2&gt;
+&lt;p&gt;这个月继续代表公司举办了hackathon，也利用这个机会认识了一些人。这是一个很好的习惯，希望自己可以保持。&lt;/p&gt;
+&lt;p&gt;在PA office工作了小半周，体验了一下wework的环境，感觉还挺好的。&lt;/p&gt;
+&lt;p&gt;高强度的打了一次羽毛球，直接把自己人给干废了，休息了一整周才缓过来。之前以为自己体能还可以的，结果直接原形毕露。还是需要再加强锻炼。&lt;/p&gt;
+&lt;p&gt;同时也把sf的房子给退了。有两方面的原因。一是舍友要回国任教了，所以房子不再续。二是我也没有计划找新的住处。对自己未来的不确定。对未来的不确定真的让人没法做一些commitment&lt;/p&gt;
+&lt;h2 id=&#34;思考&#34;&gt;思考&lt;/h2&gt;
+&lt;p&gt;经常panic&lt;/p&gt;
+&lt;p&gt;可能在这个行业工作，就容易panic&lt;/p&gt;
+&lt;p&gt;agent的功能和效果一日千里。过去两个月的体感变化实在是太大了，一些新的功能真的让人觉得blow my mind。目前就是行业剧变的前夜，没人知道会发生什么。也没人知道多快会发生。&lt;/p&gt;
+&lt;p&gt;对未来的不确定感，以及工作本身的不安全感，让人焦虑。但是仔细想想这样的焦虑是没有任何用处的，除了副作用。&lt;/p&gt;
+&lt;p&gt;更要命的是，我周围的朋友圈好像并没有像我这样焦虑，所以很难和别人交流。&lt;/p&gt;
+&lt;p&gt;D 提到了一个很好的point - 我现在经历的事情，到底是我们公司独有的，还是别的头部公司/小公司也有的感受？我现在要去做的，应该是多多和同行或者有相似经历的人交流。比较深入的交流。&lt;/p&gt;
+&lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
+&lt;p&gt;在网上发现了datawhale的学习资料，粗略看了一下感觉还挺不错的。作为行业从业者，我也应该用自己的经验贡献一些开源的项目。主动加了datawhale的项目负责人，给自己上一些压力。加了别人，说了自己想贡献，也算是给自己上了一些peer pressure了吧哈哈。&lt;/p&gt;
+&lt;p&gt;本来自己就打算开始写技术博客，如果能直接贡献到开源社区，也是非常棒的贡献。&lt;/p&gt;
+&lt;p&gt;最棒的一点就是能结识更多优秀的伙伴！这么一想就更加有动力了！&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Monthly Retro 2026 Jan</title>
       <link>http://localhost:1313/posts/monthly-retro-2026-jan/</link>
@@ -27,15 +51,13 @@
 &lt;p&gt;空闲时间还和 UCLA 的经管学院教授、以及亚麻广告业务的 director 做了一些私下交流，也很开心。&lt;/p&gt;
 &lt;p&gt;我想这就是我想要的改变之一：把自己当成一个公司/产品，多做 marketing 和 connecting。&lt;/p&gt;
 &lt;p&gt;但有一点需要时常提醒自己，这也是我之前犯过的错误：要警惕宏大叙事导致的傲慢（要有自己的产品）。&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;尝试&#34;&gt;尝试&lt;/h2&gt;
 &lt;p&gt;一直想写的技术博客，由于各种原因还没下笔。可能又犯了优绩主义或完美主义的毛病，但也很难说。这是个很大的课题，我目前还没有太多观察和思考。
 展开来说，我不应该因为不完美/没准备好，就迟迟不开始。但我同时也认为，自己的产出/作品需要达到一定水准。如何衡量这中间的 trade-off，可能需要更多实践。
 但是再怎么说，迟迟不开始是不对的，需要行动起来。&lt;/p&gt;
 &lt;p&gt;“开始”本身是一件很微妙的事，它意味着你可能会失败。很多时候，人会因为恐惧失败而不开始。承认自己的失败，本身就很痛苦。如果不开始，就不会失败，可能会活得更心安理得吧。&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;思考&#34;&gt;思考&lt;/h2&gt;
-&lt;p&gt;今天和 Di 打电话时，还讨论到了“尝试”的重要性，以及“配得感”。&lt;/p&gt;
+&lt;p&gt;今天和 D 打电话时，还讨论到了“尝试”的重要性，以及“配得感”。&lt;/p&gt;
 &lt;p&gt;我们一直的一个观察是：对于大部分人来说，梦想（或目标）的达成是概率事件。“配得感”会让你敢于开始“尝试”，而多次“尝试”会大大增加你达到目标的概率。&lt;/p&gt;
 &lt;p&gt;你可以失败很多次，但是只要成功一次就行了。&lt;/p&gt;
 &lt;p&gt;用一个过分简单的概率模型：假设成功概率为 $r$（$0 &amp;lt; r &amp;lt; 1%$）。单次尝试很难成功，但若尝试 $n$ 次，则至少成功一次的概率为：
@@ -44,7 +66,6 @@ $$
 $$
 尝试越多（$n$ 越大），成功概率越高。&lt;/p&gt;
 &lt;p&gt;结论就是，请多多尝试。&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;学习&#34;&gt;学习&lt;/h2&gt;
 &lt;p&gt;身边天龙人太多，导致现在人已经麻了。有背景华丽的天龙人，也有连大学都没上过的天龙人。英雄不问出处。&lt;/p&gt;
 &lt;p&gt;LLM 的出现，让传统大学教育暗淡了。亚麻的 director 跟我说，有个学长和张一鸣一起创办了新的教育形式，不再走传统大学路线，直接从高中选拔有天赋的人进行专业化培养。这又让我想到了 kesku，以及他在 Sora 的小伙伴们——很多人没上大学，但已经在世界最顶尖的 AI frontier lab 工作。&lt;/p&gt;</description>
