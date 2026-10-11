@@ -13,34 +13,34 @@ math: true
 
 ### 大公司
 
-apple
-nvidia
-google
-meta
-microsoft
-amazon
-bytedance
+apple<br>
+nvidia<br>
+google<br>
+meta<br>
+microsoft<br>
+amazon<br>
+bytedance<br>
 
 ### 初创
-openai
-anthropic
-xai
-project prometheus
-reflection ai
-llm arena
-cursor
-radix arc
-cresta
-livex
-open router
-x, the moonshot factory
-deepseek
+openai<br>
+anthropic<br>
+xai<br>
+project prometheus<br>
+reflection ai<br>
+llm arena<br>
+cursor<br>
+radix arc<br>
+cresta<br>
+livex<br>
+open router<br>
+x, the moonshot factory<br>
+deepseek<br>
 
 ### 中型公司
-snowflake
-datadog
-coinbase
-uber
+snowflake<br>
+datadog<br>
+coinbase<br>
+uber<br>
 
 a16z(talk only)
 
@@ -49,11 +49,11 @@ a16z(talk only)
 
 大公司的面试流程相对比较固定，但是也在变革。几乎已经没有人考察leetcode类型的题目了。但是仍然有不入流的公司保持着之前的惯性，这里就不点名了。
 
-创业公司流程就完全无法预测。但是，当红炸子鸡的general hire的面试题，反而被全网拔了一个底朝天 - 像是 openai 和 anthropic， 网上都是原题，面试者都在纯粹的表演。很难理解他们现在的选拔机制筛选的是什么样的人。又或者他们在评测某些完全没法量化的尺度？这我就无从得知了。
+创业公司流程就完全无法预测。但是，当红炸子鸡的general hire的面试题，反而被全网扒了一个底朝天 - 像是 openai 和 anthropic， 网上都是原题，面试者都在纯粹的表演。很难理解他们现在的选拔机制筛选的是什么样的人。又或者他们在评测某些完全没法量化的尺度？这我就无从得知了。
 
 比较有意思的面试是project prometheus，有两轮engineering taste测试，纯聊天，畅想未来。
 
-目前的结果，拿到了一些大公司的offer。创业公司全军覆没。（目前还有创业公司的面试在进行中，但是不确定能走多远）
+目前的结果，拿到了一些大公司的offer。创业公司几乎全军覆没。（目前还有创业公司的面试在进行中，但是不确定能走多远）
 
 ## 思考
 目前来看我在创业公司上的表现让人非常不满意。为什么会这样？我尝试着分析一下，希望能称为之后面试的指导思想。

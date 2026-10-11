@@ -30,7 +30,7 @@ math: true
 1. 不能让自己只有agent开发这一个标签
    - 积累LLM开发上下游的真实经验，包括数据、环境、infra、RL等
    - 尝试auto research方向的研究，包括harness和model的co-design
-2. 提升leadership，多从product和business impact的角度出发
+2. 提升leadership，mentorship， 多从product和business impact的角度出发
    - 在工作中大量实践
    - 更新resume
 3. 打好基础，保持面试熟练度
